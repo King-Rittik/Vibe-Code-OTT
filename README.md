@@ -1,16 +1,26 @@
-# kr_ott
+# Vibe-Coding OTT Platform
+Want to build a Netflix / Amazon Prime / Disney+ style OTT streaming app using Flutter — **even if you don’t know coding?** 🎬
 
-A new Flutter project.
+In this Vibe Coding Flutter tutorial, we’ll create a modern OTT platform UI inspired by Netflix, Prime Video, and Disney+ using a fast development approach that lets you build powerful apps with minimal coding.
 
-## Getting Started
+This tutorial is designed to help you understand what Vibe Coding is and how to use it to build real apps — whether you're a beginner or an experienced developer.
 
-This project is a starting point for a Flutter application.
+## 🚀 In this video you’ll learn:
 
-A few resources to get you started if this is your first Flutter project:
+- What Vibe Coding is and why developers are using it
+- How to build a Netflix-style OTT streaming app UI in Flutter
+- Create movie & series carousels like Netflix and Prime Video
+- Design a modern OTT home screen layout
+- How to structure Flutter apps for clean and scalable development
+- How to build professional mobile & web apps faster
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This tutorial is perfect for beginners to advanced developers, especially if you want to:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Learn Vibe Coding from beginner to pro
+- Understand how to build mobile and web apps from scratch
+- Create portfolio-level Flutter projects
+- Build apps even if you’re new to coding
+
+By the end of this tutorial, you’ll have a beautiful OTT streaming app UI built with Flutter that you can expand into a complete movie streaming platform, entertainment app, or OTT startup idea.
+
+💡 Whether you want to learn Flutter, explore Vibe Coding, or build apps faster, this tutorial will help you start building real mobile and web apps from scratch.
