@@ -1,4 +1,6 @@
 # Vibe-Coding OTT Platform
+[YouTube](https://youtu.be/EY2LPKC1nV0)
+
 Want to build a Netflix / Amazon Prime / Disney+ style OTT streaming app using Flutter — **even if you don’t know coding?** 🎬
 
 In this Vibe Coding Flutter tutorial, we’ll create a modern OTT platform UI inspired by Netflix, Prime Video, and Disney+ using a fast development approach that lets you build powerful apps with minimal coding.
